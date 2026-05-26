@@ -2,7 +2,7 @@
 
 **Full Stack Software Engineer** with 3+ years of experience building scalable web applications in healthcare and enterprise environments. Currently expanding into **cybersecurity** — penetration testing, adversary emulation, and offensive security tooling.
 
-Based in Florianópolis, Brazil 🇧🇷 · Open to remote opportunities worldwide
+Based in Florianópolis, Brazil 🇧🇷
 
 ---
 
