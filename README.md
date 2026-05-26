@@ -59,7 +59,7 @@ Flutter-based CLI tool that generates structured `.md` context files for AI-assi
 
 ## 📫 Get in touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/romfe89)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/romfe)
 
 ---
 
