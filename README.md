@@ -30,21 +30,38 @@ Based in Florianópolis, Brazil 🇧🇷
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
+**AI Tooling**
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white)
+
 ---
 
 ## 🔭 Featured Projects
 
-### [inviscan](https://github.com/romulofer/inviscan)
+### 🤖 AI-assisted dev tooling
+[**cyberfox**](https://github.com/romulofer/cyberfox) · [**cyberfox_web**](https://github.com/romulofer/cyberfox_web)
 
-Open source security scanner built in Dart. Designed for identifying vulnerabilities in mobile and web targets.
+Tools that generate structured context files (`CLAUDE.md`, `.cursorrules`, `AGENTS.md`) for AI coding agents — a Flutter/Dart CLI and a SvelteKit + Bun web rewrite.
 
-### [MobileFuzzingPOC](https://github.com/romulofer/MobileFuzzingPOC)
+### 🔐 Security
+[**inviscan**](https://github.com/romulofer/inviscan)
 
-Proof-of-concept using an RP2040 microcontroller as a hardware fuzzer for mobile devices. Explores low-level input injection for security research.
+Open source vulnerability scanner for mobile and web targets, built in Dart.
 
-### [cyberfox](https://github.com/romulofer/cyberfox)
+[**MobileFuzzingPOC**](https://github.com/romulofer/MobileFuzzingPOC)
 
-Flutter-based CLI tool that generates structured `.md` context files for AI-assisted software development workflows.
+RP2040-based hardware fuzzer exploring low-level input injection for mobile security research.
+
+### 🧩 Open source contributions
+Editor tooling for [Pulsar](https://pulsar-edit.dev/) — code completion and language support packages for C/C++ and Lua game-dev workflows ([raylib](https://github.com/romulofer/raylib), [love-pulsar](https://github.com/romulofer/love-pulsar)).
+
+---
+
+## 📊 GitHub Activity
+
+![Rômulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=romulofer&show_icons=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=romulofer&layout=compact&hide_border=true)
 
 ---
 
