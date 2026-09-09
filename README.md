@@ -2,7 +2,7 @@
 
 **Full Stack Software Engineer** with 5+ years of experience building scalable web applications in healthcare and enterprise environments. I also have a deep interest in **cybersecurity** — penetration testing, adversary emulation, and offensive security tooling.
 
-Based in Florianópolis, Brazil 🇧🇷
+Based in Itapema, Santa Catarina, Brazil 🇧🇷 · Fluent English · **Open to remote roles** (US / Europe / global)
 
 ---
 
@@ -67,7 +67,7 @@ Editor tooling for [Pulsar](https://pulsar-edit.dev/) — code completion and la
 
 ## 📌 Background
 
-- 3+ years at **Bridge Laboratory** (Florianópolis) — full stack development for healthcare and enterprise systems
+- 5 years at **Laboratório Bridge (UFSC)** (2021–2026) — full stack on **PEC / e-SUS APS**, Brazil's national primary-care electronic health record (used across thousands of municipalities)
 - Cybersecurity Resident at **RNP** (2025) — adversary emulation, pentesting, vulnerability assessment
 - Production Engineering degree from **UFSC** · Postgrad in Cybersecurity from **PUC Minas**
 - Fluent in **English**, native **Portuguese**
