@@ -20,6 +20,11 @@ Based in Itapema, Santa Catarina, Brazil 🇧🇷 · Fluent English · **Open to
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 
+**Mobile / Cross-Platform**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+
 **Databases & Infra**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
